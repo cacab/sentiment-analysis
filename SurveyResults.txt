@@ -1,0 +1,15 @@
+1 The current implementation which has ticket and seating management each confined to their own seperate systems is cumbersome at best
+3 A single system with both functionalities would make my job easier as a host
+3 The most important requirement is that all of the information stays synchronized and up to date. As a host , I need to know which tables are available and when . If a malfunction is able to occur that allows a reservation to be made for a table that is already taken , for
+2 example, then the system wouldn't be very useful
+3 Some sort of conflict management when making reservation should be in place , so that once someone starts making a reservation for a table no other employees can reserve the same table
+5 This should be enough
+3 to avoid the problem described above
+4 The basic idea of the system upgrade seems to be to create a
+4 unified system so that all employees can be on the same page at all
+4 times
+2 As a host , the improved communication would be what I'd like to
+2 see most from the kitchen
+5 This may already be planned on with the Orders button the
+5 display, but the ability to click on a table and view information such
+5 as customer orders and wait time would be helpful
